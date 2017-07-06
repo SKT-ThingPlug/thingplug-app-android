@@ -1,4 +1,3 @@
-# thingplug-app-android
 SKT ThingPlug Android Service Application
 ===
 SKT ThingPlug 1.5 Android SDK를 활용하여 개발한 Sample Service App에 대한 설명입니다.
